@@ -1,0 +1,320 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Londrina+Sketch|Reenie+Beanie');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+
+
+
+
+
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+
+
+
+
+
+footer {
+    background-color: #2A2927;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width:100%;
+    padding: 20px;
+     
+}
+
+i.fab {
+    width:100%;
+    display: inline;
+    margin: 5%;
+    font-size: 2em;
+}
+
+
+.fa-facebook {
+    color: #3C5A99;
+   
+}
+
+.fa-twitter {
+    color: #0084b4;
+}
+
+.fa-instagram {
+    color:deeppink;
+}
+
+.fa-youtube {
+    color:red;
+}
+ 
+.logo {
+    width: 700px;
+    display: block;
+    margin: 20px auto;
+}
+/*
+.backToTop {
+    background-color: darksalmon;
+    width: 50px;
+    height: auto;
+    padding: 5px;
+    text-align: center;
+    position:fixed;
+ 
+    right: 15;
+    bottom:50;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.backToTop p {
+    text-decoration: none;
+    color: black;
+    
+}
+*/
+
+
+/* === ==========================================================
+
+CSS FOR LANDING PAGE
+
+================================================================== */
+
+.navigation a {
+    padding: 10px 0px;
+}
+
+
+.navbar {
+    width:100%;
+}
+
+
+
+
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+================================================================== */
+
+
+
+
+.allBlogs {
+    margin: 40px auto;
+    width: 80%;
+    display: block;
+    
+}
+
+.ind-blog {
+    width:80%;
+    display: block;
+    margin: 20px auto;
+}
+
+.blog-title {
+    padding: 10px;
+    
+}
+
+p.author, p.date {
+    display: inline-block;   
+}
+
+.script {
+    font-weight: bold;
+}
+
+.blog-content p {
+    width: 100%;
+    display: block;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+/*-===================================================================
+
+
+CSS FOR 404 PAGE
+
+========================================================================-*/
+
+.no-page {
+    font-family: 'Londrina Sketch', cursive;
+    font-size: 3em;
+    color: white;
+    padding-top: 50px;
+}
+.no-page-secondary {
+    font-family: 'Reenie Beanie', cursive;    
+    font-size: 2em;
+    color: white;
+}
+.four04 {
+    margin-top: 20px;
+}
+
+.gif404 {
+    width: 300px;
+    margin: 0 auto;
+    display:block;
+}
+
+.four04holder {
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+}
+.no-page-thirdary {
+    margin-top: 20px;
+    font-size: 1em;
+    color: white;
+    padding: 0px 20px;
+}
+
+footer.footer2{
+     background-color: #2A2927;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width:100%;
+    margin-top: 100px;
+}
+
+/*-===================================================================
+
+
+CSS FOR ABOUT US
+
+========================================================================-*/
+
+.about-us {
+    width: 90%;
+    margin:30px auto;
+    display:block;
+}
+.about-us-holder {
+    padding: 15px;
+    margin: 15px 0px;
+    
+}
+.aboutUsContent {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.25em; 
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+.aboutUsName {
+    font-family: 'Staatliches', cursive;
+    text-shadow: 3px 3px 8px black;
+    font-size: 2em;
+    
+}
+.aboutUsTitle {
+    color:black;
+    font-weight: bold;
+    
+}
+.jobTitle {
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 0px 0px 10px gray;
+    font-size: 1em;
+    color: black;
+}
+.aboutUsNameAndJob {
+    padding: 15px 5px;
+}
+.aboutUsInfo {
+    width: 90%;
+    display:block;
+    margin: 10px auto;
+}
+.aboutUsPic {
+    width: 100%;
+}
+
+
+
+/*===============================================================
+
+TRIPS
+
+==================================================================*/
+
+.page-title {
+    font-family: 'Staatliches', sans-serif;
+    font-size: 4em;
+}
+
+.fish-info{
+    color: black;
+}
+
+.tripHeader {
+    width: 100%;
+}
+.tripsHolder {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    
+}
+
+.dontknow {
+    font-weight: bolder;
+    font-size: 1.1em;
+}
+
+
+.trip-selector {
+    padding-bottom: 40px;
+}
+
+#panfish,#trout, #salt, #carp {
+    margin: 20px auto;
+}
+.fishingLocations {
+    width: 80%;
+    margin: 15px;
+}
+.trip-deets2, .fishSpecies {
+    margin: 15px;
+    width: 80%;
+}
+.fish-pic {
+    width:75%;
+    display: block;
+    margin:30px auto;
+}
+
+.return-to-top {
+    width:100%;
+    display:block;
+    margin: 0 auto;
+    
+}
+
+
+
+
+
+
